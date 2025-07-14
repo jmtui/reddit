@@ -85,8 +85,8 @@ Inspired by:
 
 ## 🧠 Author
 
-**[Your Name]**  
-MSc Economics · Data Analyst  
+**[Joseph Mtui]**  
+
 [LinkedIn/GitHub URL]  
 
 > “Attention is the new liquidity.”
